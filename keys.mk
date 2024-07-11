@@ -1,1 +1,1 @@
-PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/aosp/signing/keys/releasekey
+PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/blaze/signing/keys/releasekey
